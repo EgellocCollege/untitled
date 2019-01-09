@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<hwthemes>
+    <!-- 桌面图标投影 -->
+    <color name="icon_shadow">#00000000</color>
+    <!-- 一键清理字体颜色 -->
+    <color name="widget_text_color">#FFFFFFFF</color>
+
+</hwthemes>
